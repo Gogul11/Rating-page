@@ -1,4 +1,4 @@
-This is frontend mentor challenge 3. The challenge was to create an rating card.This challenge involves in little HTML and CSS and JavaScript.
+This is frontend mentor challenge 3 (https://www.frontendmentor.io/) . The challenge was to create an rating card.This challenge involves in little HTML and CSS and JavaScript.
 This card is desktop perview.
 The rating page is based on the following asspects:
 # Front-end Style Guide
