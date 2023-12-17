@@ -1,11 +1,11 @@
 
 s = document.createElement('p');
 s.setAttribute('id', "mark");
-function score1()
-{
+  function score1()
+  {        
         s.textContent="you selected 1 out of 5";
-        
-}
+                
+   }
     
     function score2()
     {
